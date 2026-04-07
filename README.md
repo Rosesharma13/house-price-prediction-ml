@@ -6,7 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 ## 📌 Objective
 
@@ -159,4 +158,4 @@ Open **http://localhost:8501** 🎉
 ---
 
 ## 📄 License
-MIT License
+This project is licensed under the MIT License.
