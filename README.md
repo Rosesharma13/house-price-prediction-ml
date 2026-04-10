@@ -85,11 +85,13 @@ Run all cells in order — top to bottom.
 # Then:
 streamlit run predict_ui.py
 ```
+Open **http://localhost:8501** 🎉
 
 ### 📸 UI Preview
-![UI](images/ui.png)
 
-Open **http://localhost:8501** 🎉
+
+<img width="1337" height="852" alt="Screenshot 2026-04-10 121152" src="https://github.com/user-attachments/assets/a89f07a0-a9d5-4a97-83a1-a2201e8f83d9" />
+
 
 ---
 
