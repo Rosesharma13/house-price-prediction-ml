@@ -25,13 +25,25 @@ Build and evaluate a Linear Regression model on the California Housing dataset f
 ## 📁 Project Structure
 
 ```
-house-price-predictor/
-├── task1_ml_linear_regression.ipynb  # Main Jupyter Notebook
-├── predict_ui.py                     # Optional Streamlit UI
-├── model/
-│   ├── linear_regression_model.pkl   # Saved model
-│   └── scaler.pkl                    # Saved StandardScaler
-├── requirements.txt                  # Dependencies
+house-price-prediction-ml/
+│
+├──  task1_ml_linear_regression.ipynb
+├── images/
+│ ├── geographic_visualization.png
+│ ├── coefficients.png
+│ ├── correlation_heatmap.png
+│ ├── feature_distribution.png
+│ ├── model_evaluation.png
+│ ├── residual_analysis.png
+│ ├── target_variable.png
+│ ├── feature_vs_target.png
+│ └── train_vs_test_metrics.png
+├── report/
+│   └── House_Price_Report.pdf
+├── predict_ui.py
+├── requirements.txt
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -41,7 +53,7 @@ house-price-predictor/
 
 ```bash
 # Step 1 — Clone repo
-git clone https://github.com/yourusername/house-price-predictor.git
+git clone https://github.com/Rosesharma13/house-price-predictor.git
 cd house-price-predictor
 
 # Step 2 — Create virtual environment
