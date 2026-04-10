@@ -38,6 +38,7 @@ house-price-prediction-ml/
 │ ├── target_variable.png
 │ ├── feature_vs_target.png
 │ └── train_vs_test_metrics.png
+│ └── ui.png
 ├── report/
 │   └── House_Price_Report.pdf
 ├── predict_ui.py
@@ -84,6 +85,10 @@ Run all cells in order — top to bottom.
 # Then:
 streamlit run predict_ui.py
 ```
+
+### 📸 UI Preview
+![UI](images/ui.png)
+
 Open **http://localhost:8501** 🎉
 
 ---
